@@ -187,3 +187,12 @@ Synthesizing the **waveforms** conditionned on previously synthesized Mel-spectr
 - [r9y9/wavenet_vocoder](https://github.com/r9y9/wavenet_vocoder)
 - [keithito/tacotron](https://github.com/keithito/tacotron)
 
+Data
+--------------------------------------------------------------------------------------
+There is no open-source mandarin speech synthesis dataset on the internet, this proj used thchs30 dataset to demostrate speech synthesis
+
+UPDATE
+
+open-source mandarin speech synthesis data from data-banker company, 开源的中文语音合成数据，感谢标贝公司
+
+【数据下载】https://weixinxcxdb.oss-cn-beijing.aliyuncs.com/gwYinPinKu/BZNSYP.rar 【数据说明】http://www.data-baker.com/open_source.html
