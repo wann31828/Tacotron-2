@@ -202,7 +202,7 @@ https://drive.google.com/open?id=1dB_I4Lz848rxu4ipT8y8VMpYdg6Zw9YK
 
 put the download file logs-Tacotron.tar.gz at this repo , then decompress it ,
 
-decompress the pretrain model : 
-$tar zxvf logs-Tacotron.tar.gz
-run demo_server to test it (default is localhost:6006) :
-$python demo_server.py --host <your_ip_address> --port <port_number>
+decompress the pretrain model :   
+$tar zxvf logs-Tacotron.tar.gz  
+run demo_server to test it (default is localhost:6006) :  
+$python demo_server.py --host <your_ip_address> --port <port_number>  
